@@ -1,19 +1,20 @@
 # First Flight #2: Puppy Raffle
 
+- [First Flight #2: Puppy Raffle](#first-flight-2-puppy-raffle)
 - [Contest Details](#contest-details)
-  - [Prize Pool](#prize-pool)
+    - [Prize Pool](#prize-pool)
   - [Stats](#stats)
 - [Puppy Raffle](#puppy-raffle)
+  - [Roles](#roles)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
     - [Optional Gitpod](#optional-gitpod)
 - [Usage](#usage)
   - [Testing](#testing)
-    - [Test Coverage](#test-coverage)
+      - [Test Coverage](#test-coverage)
 - [Audit Scope Details](#audit-scope-details)
   - [Compatibilities](#compatibilities)
-- [Roles](#roles)
 - [Known Issues](#known-issues)
 
 # Contest Details
@@ -85,7 +86,7 @@ If you can't or don't want to run and install locally, you can work with this re
 forge test
 ```
 
-### Test Coverage
+#### Test Coverage
 
 ```
 forge coverage
