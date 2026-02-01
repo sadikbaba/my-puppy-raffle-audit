@@ -26,3 +26,6 @@ snapshot :; forge snapshot
 format :; forge fmt
 
 anvil :; anvil -m 'test test test test test test test test test test test junk' --steps-tracing --block-time 1
+
+
+forge install foundry-rs/forge-std && forge install openzeppelin/openzeppelin-contracts@v3.4.0 && forge install Brechtpd/base64 
